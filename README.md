@@ -15,7 +15,7 @@ Informatics student @ [NTNU](https://www.ntnu.no/studier/bit) 🇳🇴
 - Docker
 
 ### 🚀 Current project(s)
-- Personal website: [sjasmuss.folk.ntnu.no](https://sjasmuss.folk.ntnu.no/)
+- [Personal website](https://sjasmuss.folk.ntnu.no/)
 - Passing my subjects
 - Improving my grades
 
@@ -32,7 +32,7 @@ Informatics student @ [NTNU](https://www.ntnu.no/studier/bit) 🇳🇴
 -->
 
 ### 🏠 Self-hosting
-- Forgejo (with backup and action runners)
-- Pi-hole (for my whole tailnet)
+- [Forgejo](https://forgejo.org/) (with backup and action runners)
+- [Pi-hole](https://pi-hole.net/) (for my whole tailnet)
 
 > I will make this prettier sometime in the future, probably
