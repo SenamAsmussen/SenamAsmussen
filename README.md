@@ -1,16 +1,38 @@
-## Hi there 👋
+## Hi there, I'm Senam 👋
+Informatics student @ [NTNU](https://www.ntnu.no/studier/bit) 🇳🇴 
+
+### 📝 Languages
+- 🐍 Python
+- 🕸️ JavaScript
+- 🌐 TypeScript 
+- 🇮🇩 Java 
+- 💲 Bash
+- 🦀 Rust (learning)
+
+### 🛠️ Technologies
+- React and Tailwind
+- SQL
+- Docker
+
+### 🚀 Current project(s)
+- Personal website: [sjasmuss.folk.ntnu.no](https://sjasmuss.folk.ntnu.no/)
+- Passing my subjects
+- Improving my grades
 
 <!--
-**SenamAsmussen/SenamAsmussen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+#### Backlog
+- Forgejo CLI (Rust/Go)
+- ASCII art generator (Rust)
+- Birdhouse camera with Zero 2 (Python)
+- Pixle game (Lua/Pico8)
+- Another game lol (Lua/LÔVE)
+- New version of my pokemon battle sim (Java)
+- OS programming (C/xv6-riscv)
+- Embedded programming (C/Rust)
 -->
+
+### 🏠 Self-hosting
+- Forgejo (with backup and action runners)
+- Pi-hole (for my whole tailnet)
+
+> I will make this prettier sometime in the future, probably
